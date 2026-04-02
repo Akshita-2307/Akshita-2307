@@ -51,7 +51,7 @@ Basic projects using html and css.
 
 ## 📊 GitHub Stats
 
-![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight)
+![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -63,7 +63,7 @@ Basic projects using html and css.
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
