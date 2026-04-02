@@ -63,9 +63,9 @@ Basic projects using html and css.
 
 ## 🏆 GitHub Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Akshita-2307&theme=tokyonight&no-frame=true&row=1&column=6)
+## 🏆 GitHub Achievements
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshita-2307&color=blueviolet&style=flat)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Akshita-2307&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
 
 ---
 
