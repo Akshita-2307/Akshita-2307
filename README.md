@@ -51,7 +51,7 @@ Basic projects using html and css.
 
 ## 📊 GitHub Stats
 
-![Akshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Akshita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight)
 
 ---
 
