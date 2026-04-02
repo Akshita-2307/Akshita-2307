@@ -37,6 +37,16 @@ Collaborated with a team to build a solution during a hackathon using rapid prot
 
 🔗 https://github.com/Xenon010101/sensebite
 
+### 🔹 ArogyaAI( Hackathon Project)
+Collaborated with  team to build a solution on healthcare system using AI.
+
+🔗 https://github.com/Akshita-2307/ArogyaAI
+
+### 🔹 Html-Css-Projects.
+Basic projects using html and css.
+
+🔗 https://github.com/Akshita-2307/Html-Css-Projects
+
 ---
 
 ## 📊 GitHub Stats
