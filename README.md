@@ -61,14 +61,6 @@ Basic projects using html and css.
 
 ---
 
-## 🏆 GitHub Achievements
-
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Akshita-2307&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
-
----
-
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight)
