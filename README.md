@@ -63,7 +63,7 @@ Basic projects using html and css.
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight)
 
 ---
 
