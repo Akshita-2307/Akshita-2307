@@ -47,6 +47,12 @@ Basic projects using html and css.
 
 🔗 https://github.com/Akshita-2307/Html-Css-Projects
 
+### 🔹 Netflix-Clone.
+Made a Netflix clone using html and css.
+
+🔗 https://github.com/Akshita-2307/Netflix-Clone
+
+
 ---
 
 ## 📊 GitHub Stats
