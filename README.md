@@ -52,6 +52,11 @@ Made a Netflix clone using html and css.
 
 🔗 https://github.com/Akshita-2307/Netflix-Clone
 
+### 🔹 Digital-Website.
+Made a figma website using html and css.
+
+🔗 https://github.com/Akshita-2307/Digital-Website
+
 
 ---
 
