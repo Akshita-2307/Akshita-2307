@@ -57,7 +57,7 @@ Made a figma website using html and css.
 
 🔗 https://github.com/Akshita-2307/Digital-Website
 
-### 🔹 Chat-Application.
+### 🔹 Quick-Chat.
 Made a chat application using html,css and javascript.
 
 🔗 https://github.com/Akshita-2307/Chat-Application
