@@ -66,6 +66,8 @@ Made a chat application using html,css and javascript.
 Made a figma website using react and tailwind css.
 
 🔗 https://github.com/Akshita-2307/React-Project
+
+
 ---
 
 ## 📊 GitHub Stats
