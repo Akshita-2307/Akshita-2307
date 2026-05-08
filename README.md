@@ -19,8 +19,12 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+
 
 ---
 
@@ -53,7 +57,7 @@ Made a Netflix clone using html and css.
 🔗 https://github.com/Akshita-2307/Netflix-Clone
 
 ### 🔹 Digital-Website.
-Made a figma website using html and css.
+Converted a Figma design into a responsive frontend using HTML and CSS.
 
 🔗 https://github.com/Akshita-2307/Digital-Website
 
