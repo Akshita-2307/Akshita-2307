@@ -71,6 +71,12 @@ Made a figma website using react and tailwind css.
 
 🔗 https://github.com/Akshita-2307/React-Project
 
+### 🔹 Spotify-Clone-(Ongoing)
+Made a spotify clone using html,css and javascript
+
+🔗 https://github.com/Akshita-2307/Spotify-Clone
+
+
 
 ---
 
