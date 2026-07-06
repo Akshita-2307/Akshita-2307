@@ -76,6 +76,12 @@ Made a responsive spotify clone using html,css and javascript
 
 🔗 https://github.com/Akshita-2307/Spotify-Clone
 
+### 🔹 Faulty-Calculator
+Made a faulty calculator using javascript and html.
+
+🔗 https://github.com/Akshita-2307/Faulty-Calculator
+
+
 
 
 ---
