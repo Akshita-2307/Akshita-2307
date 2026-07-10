@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 💻 Currently learning **JavaScript , Reaxt , Node.js**
+* 💻 Currently learning **JavaScript , React , Node.js**
 * ✅ Skilled in **HTML5** and **CSS3**
 * 🛠️ Building frontend projects to improve my skills
 * 🤝 Open Source Contributor at **GSSoC 2026**
@@ -86,9 +86,6 @@ Made a faulty calculator using javascript and html.
 Made a random business name generator using javascrip[t and html.
 
 🔗 https://github.com/Akshita-2307/Business-Name-Generator
-
-
-
 
 ---
 
