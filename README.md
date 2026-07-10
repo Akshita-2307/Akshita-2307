@@ -6,12 +6,13 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **HTML, CSS, JavaScript**
-- 🧠 Exploring **how the web works internally**
-- 🛠️ Building beginner-friendly projects consistently
-- 🏆 Participated in my **first hackathon**
-- 📌 Documenting my learning journey on GitHub
-
+* 💻 Currently learning **JavaScrip , Reaxt , Node.js**
+* ✅ Skilled in **HTML5** and **CSS3**
+* 🛠️ Building frontend projects to improve my skills
+* 🤝 Open Source Contributor at **GSSoC 2026**
+* 🏆 Hackathon participant
+* 📌 Sharing my learning journey on GitHub
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -120,23 +121,27 @@ Made a random business name generator using javascrip[t and html.
 
 ## 🏆 Hackathon Experience
 
-Participated in my first hackathon and contributed to:
+Participated in my first hackathon and was **selected for the HackArena Zonal Round hosted at Jadavpur University**.
 
-- rapid prototyping
-- teamwork collaboration
-- idea structuring
-- project workflow understanding
+Through these experiences, I gained hands-on exposure to:
 
-This experience strengthened my interest in real-world development.
+* rapid prototyping
+* teamwork collaboration
+* idea structuring
+* project workflow understanding
+
+These experiences strengthened my interest in real-world software development.
 
 ---
 
 ## 📚 Currently Learning
 
-- Responsive Web Design
-- Advanced CSS Selectors
-- JavaScript Fundamentals
-- Open Source Contribution Basics
+* JavaScript (ES6)
+* React.js
+* Node.js
+* DOM Manipulation
+* Asynchronous JavaScript
+* Building Interactive Web Applications
 
 ---
 
