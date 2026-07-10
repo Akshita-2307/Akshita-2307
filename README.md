@@ -81,6 +81,11 @@ Made a faulty calculator using javascript and html.
 
 🔗 https://github.com/Akshita-2307/Faulty-Calculator
 
+### 🔹 Business Name Generator
+Made a random business name generator using javascrip[t and html.
+
+🔗 https://github.com/Akshita-2307/Business-Name-Generator
+
 
 
 
