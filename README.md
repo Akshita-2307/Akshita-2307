@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 💻 Currently learning **JavaScrip , Reaxt , Node.js**
+* 💻 Currently learning **JavaScript , Reaxt , Node.js**
 * ✅ Skilled in **HTML5** and **CSS3**
 * 🛠️ Building frontend projects to improve my skills
 * 🤝 Open Source Contributor at **GSSoC 2026**
