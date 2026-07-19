@@ -87,6 +87,11 @@ Made a random business name generator using javascrip[t and html.
 
 🔗 https://github.com/Akshita-2307/Business-Name-Generator
 
+### 🔹 Tic-Tac-Toe
+Made a fun two player responsive game using html,css and javascript.
+
+🔗 https://github.com/Akshita-2307/Tic-Tac-Toe 
+
 ---
 
 ## 📊 GitHub Stats
