@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-* 💻 Currently learning **JavaScript , React , Node.js**
-* ✅ Skilled in **HTML5** and **CSS3**
+* 💻 Currently learning **React , Node.js**
+* ✅ Skilled in **HTML5**,**CSS3** and **Javascript**.
 * 🛠️ Building frontend projects to improve my skills
 * 🤝 Open Source Contributor at **GSSoC 2026**
 * 🏆 Hackathon participant
@@ -143,7 +143,6 @@ These experiences strengthened my interest in real-world software development.
 
 ## 📚 Currently Learning
 
-* JavaScript (ES6)
 * React.js
 * Node.js
 * DOM Manipulation
