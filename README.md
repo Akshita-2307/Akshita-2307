@@ -92,6 +92,11 @@ Made a fun two player responsive game using html,css and javascript.
 
 🔗 https://github.com/Akshita-2307/Tic-Tac-Toe 
 
+### 🔹 Rock-Paper-Scissor
+Made a classic rocl paper scissor game using html,css and javascript.
+
+🔗 https://github.com/Akshita-2307/Rock-Paper-Scissor
+
 ---
 
 ## 📊 GitHub Stats
