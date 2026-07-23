@@ -42,8 +42,8 @@ Collaborated with a team to build a solution during a hackathon using rapid prot
 
 🔗 https://github.com/Xenon010101/sensebite
 
-### 🔹 ArogyaAI( Hackathon Project)
-Collaborated with  team to build a solution on healthcare system using AI.
+### 🔹 ArogyaAI (Hackathon Project)
+Collaborated with team to build a solution on healthcare system using AI.
 
 🔗 https://github.com/Akshita-2307/ArogyaAI
 
@@ -72,7 +72,7 @@ Made a figma website using react and tailwind css.
 
 🔗 https://github.com/Akshita-2307/React-Project
 
-### 🔹 Spotify-Clone-(Ongoing)
+### 🔹 Spotify-Clone
 Made a responsive spotify clone using html,css and javascript
 
 🔗 https://github.com/Akshita-2307/Spotify-Clone
