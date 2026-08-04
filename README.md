@@ -1,161 +1,278 @@
-# Hi, I'm Akshita 👋
+<h1 align="center">Hi 👋, I'm Akshita</h1>
+<h3 align="center">Aspiring Full Stack Developer | React • Node.js • MongoDB | Open Source Contributor | Hackathon Enthusiast</h3>
 
-💻 Beginner Web Developer | Hackathon Participant | Learning by Building Real Projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Full+Stack+Development;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Currently learning **React , Node.js**
-* ✅ Skilled in **HTML5**,**CSS3** and **Javascript**.
-* 🛠️ Building frontend projects to improve my skills
-* 🤝 Open Source Contributor at **GSSoC 2026**
-* 🏆 Hackathon participant
-* 📌 Sharing my learning journey on GitHub
-  
----
+🎓 First-year B.Tech Computer Science Engineering student
 
-## 🛠️ Tech Stack
+💻 Passionate about Full Stack Web Development
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+🚀 Building modern web applications using React, Node.js, and JavaScript
 
+🌱 Currently learning MongoDB, Express.js, REST APIs, and backend development
+
+🤝 Open Source Contributor at **GirlScript Summer of Code 2026 (GSSoC)**
+
+🏆 HackArena Zonal Round Qualifier
+
+📚 Love learning by building real-world projects
 
 ---
 
-## 📂 Projects
+# 🛠 Tech Stack
 
-### 🔹 How the Web Works
-Understanding the fundamentals of how websites function.
+## 💻 Frontend
 
-🔗 https://github.com/Akshita-2307/how-the-web-works
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css"/>
+</p>
 
+## ⚙ Backend
 
-### 🔹 SenseBite (Hackathon Project)
-Collaborated with a team to build a solution during a hackathon using rapid prototyping and structured idea development.
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+</p>
 
-🔗 https://github.com/Xenon010101/sensebite
+## 🗄 Database
 
-### 🔹 ArogyaAI (Hackathon Project)
-Collaborated with team to build a solution on healthcare system using AI.
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+</p>
 
-🔗 https://github.com/Akshita-2307/ArogyaAI
+## 🛠 Tools
 
-### 🔹 Html-Css-Projects.
-Basic projects using html and css.
-
-🔗 https://github.com/Akshita-2307/Html-Css-Projects
-
-### 🔹 Netflix-Clone.
-Made a Netflix clone using html and css.
-
-🔗 https://github.com/Akshita-2307/Netflix-Clone
-
-### 🔹 Digital-Website.
-Converted a Figma design into a responsive frontend using HTML and CSS.
-
-🔗 https://github.com/Akshita-2307/Digital-Website
-
-### 🔹 Quick-Chat.
-Made a chat application using html,css and javascript.
-
-🔗 https://github.com/Akshita-2307/Chat-Application
-
-### 🔹 React-Project
-Made a figma website using react and tailwind css.
-
-🔗 https://github.com/Akshita-2307/React-Project
-
-### 🔹 Spotify-Clone
-Made a responsive spotify clone using html,css and javascript
-
-🔗 https://github.com/Akshita-2307/Spotify-Clone
-
-### 🔹 Faulty-Calculator
-Made a faulty calculator using javascript and html.
-
-🔗 https://github.com/Akshita-2307/Faulty-Calculator
-
-### 🔹 Business Name Generator
-Made a random business name generator using javascrip[t and html.
-
-🔗 https://github.com/Akshita-2307/Business-Name-Generator
-
-### 🔹 Tic-Tac-Toe
-Made a fun two player responsive game using html,css and javascript.
-
-🔗 https://github.com/Akshita-2307/Tic-Tac-Toe 
-
-### 🔹 Rock-Paper-Scissor
-Made a classic rock paper scissor game using html,css and javascript.
-
-🔗 https://github.com/Akshita-2307/Rock-Paper-Scissor
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌟 Featured Projects
 
-![Akshita's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight)
+## 🩺 ArogyaAI
+
+AI-powered healthcare solution developed during a hackathon.
+
+### Features
+
+- AI-assisted healthcare workflow
+- Team collaboration
+- Real-world problem solving
+- Prototype development
+
+**Tech Stack**
+
+React • Node.js • AI
+
+🔗 Repository
+
+https://github.com/Akshita-2307/ArogyaAI
 
 ---
 
-## 🔥 GitHub Streak
+## 🥗 SenseBite
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshita-2307&theme=tokyonight)
+Hackathon project focused on simplifying ingredient information for users.
+
+### Features
+
+- Team collaboration
+- Rapid prototyping
+- Idea validation
+- User-focused solution
+
+🔗 Repository
+
+https://github.com/Xenon010101/sensebite
 
 ---
 
-## 📈 Most Used Languages
+## 💬 Quick Chat
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight)
+Responsive chat application built using HTML, CSS, and JavaScript.
+
+### Features
+
+- Responsive UI
+- Interactive messaging interface
+- Modern design
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+🔗 Repository
+
+https://github.com/Akshita-2307/Chat-Application
 
 ---
 
-## 🐍 Contribution Snake
+## ⚛ React Project
+
+Responsive website built using React and Tailwind CSS from a Figma design.
+
+### Features
+
+- Responsive design
+- Component-based architecture
+- Modern UI
+
+**Tech Stack**
+
+React • Tailwind CSS
+
+🔗 Repository
+
+https://github.com/Akshita-2307/React-Project
+
+---
+
+## 🌐 Digital Website
+
+Converted a Figma design into a fully responsive frontend.
+
+### Features
+
+- Responsive layout
+- Pixel-perfect implementation
+- Modern UI
+
+**Tech Stack**
+
+HTML • CSS
+
+🔗 Live Demo
+
+https://akshita-2307.github.io/Digital-Website/
+
+🔗 Repository
+
+https://github.com/Akshita-2307/Digital-Website
+
+---
+
+## 🎬 Netflix Clone
+
+Responsive Netflix landing page clone.
+
+### Features
+
+- Responsive design
+- Hero section
+- Movie cards
+- Navigation bar
+- Hover effects
+
+**Tech Stack**
+
+HTML • CSS
+
+🔗 Repository
+
+https://github.com/Akshita-2307/Netflix-Clone
+
+---
+
+# 🏆 Achievements
+
+🏅 Open Source Contributor — GirlScript Summer of Code 2026
+
+🏅 HackArena Zonal Round Qualifier
+
+🏅 Built multiple frontend and full-stack projects
+
+🏅 Active GitHub Contributor
+
+🏅 Passionate about learning and building real-world applications
+
+---
+
+# 🌱 Currently Learning
+
+- MongoDB
+- Express.js
+- REST APIs
+- Authentication (JWT)
+- Backend Architecture
+- Full Stack Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Akshita-2307&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## 🏆 Hackathon Experience
+# 🎯 Current Focus
 
-Participated in my first hackathon and was **selected for the HackArena Zonal Round hosted at Jadavpur University**.
+✅ Building Full Stack Applications
 
-Through these experiences, I gained hands-on exposure to:
+✅ Learning MongoDB & Express.js
 
-* rapid prototyping
-* teamwork collaboration
-* idea structuring
-* project workflow understanding
+✅ Contributing to Open Source
 
-These experiences strengthened my interest in real-world software development.
+✅ Preparing for Software Engineering Internships
 
 ---
 
-## 📚 Currently Learning
+# 📫 Connect With Me
 
-* React.js
-* Node.js
-* DOM Manipulation
-* Asynchronous JavaScript
-* Building Interactive Web Applications
+<p align="left">
+
+<a href="https://github.com/Akshita-2307">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akshita-9402aa329">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+> **"Consistency beats intensity. Small improvements every day lead to big results." 🚀**
 
-GitHub: https://github.com/Akshita-2307  
-LinkedIn: https://www.linkedin.com/in/akshita-9402aa329
-
----
-
-⭐ I’m consistently building projects and improving step by step.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, and let's connect to build something amazing.
