@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 First-year B.Tech Computer Science Engineering student
+🎓 B.Tech Computer Science Engineering student
 
 💻 Passionate about Full Stack Web Development
 
