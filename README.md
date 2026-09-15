@@ -61,7 +61,7 @@ React • Node.js • AI
 
 🔗 Demo
 
-arogyaai-demo.onrender.com/
+https://arogyaai-demo.onrender.com/login
 
 ---
 
