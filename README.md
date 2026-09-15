@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshita</h1>
-<h3 align="center">Aspiring Full Stack Developer | React • Node.js • MongoDB | Open Source Contributor | Hackathon Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | Global rank 24 in GSSoC | Open Source Contributor | Hackathon Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+Full+Stack+Development;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
