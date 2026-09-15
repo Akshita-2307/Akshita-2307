@@ -76,9 +76,9 @@ Hackathon project focused on simplifying ingredient information for users.
 - Idea validation
 - User-focused solution
 
-🔗 Repository
+🔗 Demo
 
-https://github.com/Xenon010101/sensebite
+https://sensebite-main.vercel.app/
 
 ---
 
