@@ -59,9 +59,9 @@ AI-powered healthcare solution developed during a hackathon.
 
 React • Node.js • AI
 
-🔗 Repository
+🔗 Demo
 
-https://github.com/Akshita-2307/ArogyaAI
+arogyaai-demo.onrender.com/
 
 ---
 
