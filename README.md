@@ -102,7 +102,7 @@ https://akshita-2307.github.io/Quick-Chat/
 
 ---
 
-## ⚛ React Project
+## ⚛ Precision Agency
 
 Responsive website built using React and Tailwind CSS from a Figma design.
 
@@ -119,26 +119,6 @@ React • Tailwind CSS
 🔗 Demo
 
 https://akshita-2307.github.io/React-Project/
-
----
-
-## 🌐 Digital Website
-
-Converted a Figma design into a fully responsive frontend.
-
-### Features
-
-- Responsive layout
-- Pixel-perfect implementation
-- Modern UI
-
-**Tech Stack**
-
-HTML • CSS
-
-🔗 Demo
-
-https://akshita-2307.github.io/Digital-Website/
 
 ---
 
