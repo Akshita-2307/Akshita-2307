@@ -7,24 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 B.Tech Computer Science Engineering student
-
-💻 Passionate about Full Stack Web Development
-
-🚀 Building modern web applications using React, Node.js, and JavaScript
-
-🌱 Currently learning MongoDB, Express.js, REST APIs, and backend development
-
-🤝 Open Source Contributor at **GirlScript Summer of Code 2026 (GSSoC)**
-
-🏆 HackArena Zonal Round Qualifier
-
-📚 Love learning by building real-world projects
-
----
-
 # 🛠 Tech Stack
 
 ## 💻 Frontend
