@@ -164,31 +164,6 @@ https://akshita-2307.github.io/Netflix-Clone/
 
 ---
 
-# 🏆 Achievements
-
-🏅 Open Source Contributor — GirlScript Summer of Code 2026
-
-🏅 HackArena Zonal Round Qualifier
-
-🏅 Built multiple frontend and full-stack projects
-
-🏅 Active GitHub Contributor
-
-🏅 Passionate about learning and building real-world applications
-
----
-
-# 🌱 Currently Learning
-
-- MongoDB
-- Express.js
-- REST APIs
-- Authentication (JWT)
-- Backend Architecture
-- Full Stack Development
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
