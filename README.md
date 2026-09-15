@@ -96,9 +96,9 @@ Responsive chat application built using HTML, CSS, and JavaScript.
 
 HTML • CSS • JavaScript
 
-🔗 Repository
+🔗 Demo
 
-https://github.com/Akshita-2307/Chat-Application
+https://akshita-2307.github.io/Quick-Chat/
 
 ---
 
@@ -116,9 +116,9 @@ Responsive website built using React and Tailwind CSS from a Figma design.
 
 React • Tailwind CSS
 
-🔗 Repository
+🔗 Demo
 
-https://github.com/Akshita-2307/React-Project
+https://akshita-2307.github.io/React-Project/
 
 ---
 
@@ -136,13 +136,9 @@ Converted a Figma design into a fully responsive frontend.
 
 HTML • CSS
 
-🔗 Live Demo
+🔗 Demo
 
 https://akshita-2307.github.io/Digital-Website/
-
-🔗 Repository
-
-https://github.com/Akshita-2307/Digital-Website
 
 ---
 
@@ -162,9 +158,9 @@ Responsive Netflix landing page clone.
 
 HTML • CSS
 
-🔗 Repository
+🔗 Demo
 
-https://github.com/Akshita-2307/Netflix-Clone
+https://akshita-2307.github.io/Netflix-Clone/
 
 ---
 
