@@ -164,14 +164,6 @@ https://akshita-2307.github.io/Netflix-Clone/
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshita-2307&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
