@@ -172,14 +172,6 @@ https://akshita-2307.github.io/Netflix-Clone/
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita-2307&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <picture>
@@ -187,18 +179,6 @@ https://akshita-2307.github.io/Netflix-Clone/
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
 <img alt="snake animation" src="https://raw.githubusercontent.com/Akshita-2307/Akshita-2307/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-# 🎯 Current Focus
-
-✅ Building Full Stack Applications
-
-✅ Learning MongoDB & Express.js
-
-✅ Contributing to Open Source
-
-✅ Preparing for Software Engineering Internships
 
 ---
 
